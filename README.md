@@ -27,7 +27,9 @@ Useage:
 
 4.click button "开始修改"
 
-2023-05-06 13:57:59
+更新时间：2023-05-06 13:57:59
+2023-05-06 14:00:35
+
 
 
 ![](https://github.com/1394813277/srtAdjustmentTool/blob/master/727509A9-2E62-4407-A51C-2E97EF9B8938.png)
