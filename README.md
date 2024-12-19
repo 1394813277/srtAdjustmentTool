@@ -33,10 +33,4 @@ Useage:
 更新时间：2023-05-06 14:15:07 2
 >>>>>>> ec16f01aa5ce299da147d35dce1c58c5e26706b5
 
-
-2024-12-19
-增加一个大文件
-
-主分支继续
-
 ![](https://github.com/1394813277/srtAdjustmentTool/blob/master/727509A9-2E62-4407-A51C-2E97EF9B8938.png)
